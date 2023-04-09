@@ -1,4 +1,6 @@
 # 알고리즘설계와분석
+자세한 내용은 각 폴더의 report.docx 파일에 있습니다.
+
 ### proj1
 2차원 배열에서 시간 복잡도가 다른 3가지 방법으로 Maximum Sum Subrectangle을 찾는 프로젝트를 수행했습니다.
 ### proj2
